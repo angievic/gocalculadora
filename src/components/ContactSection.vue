@@ -10,7 +10,7 @@
                 Dejanos un mensaje con otro cálculo que te gustaría poder hacer.
               </h3>
               <h3 class="font-weight-light mt-3">
-                Hecho con amor por Instagram @soyangiezuniga y @jaibayuelomundial
+                Hecho con amor por Instagram <a href="https://www.instagram.com/soyangiezuniga/">@soyangiezuniga</a> y <a href="https://www.instagram.com/jaibayuelomundial/">@jaibayuelomundial</a>
               </h3>
               <v-img
               src="@/assets/img/godiamond.png"
