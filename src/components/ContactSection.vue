@@ -15,12 +15,18 @@
               <h3 class="font-weight-light mt-3">
                 Si quieres contribuir a este proyecto...
               </h3>
-              <h3 class="font-weight-light mt-3 mifuente">
-                BTC wallet: 1P1MBjBTjRxgtryP4Gaz1D8aY2mAjHQ7QN
+              <h3 class="font-weight-light mt-3">
+                BTC wallet:
               </h3>
-              <h3 class="font-weight-light mt-3 mifuente" width="100%">
-                BNB BEP20 wallet: 0x7a07D54a7D7dFDd1a808c977fF2D5D3D1c7f2494
+              <h5 class=" mt-3">
+                1P1MBjBTjRxgtryP4Gaz1D8aY2mAjHQ7QN
+              </h5>
+              <h3 class="font-weight-light mt-3">
+                BNB BEP20 wallet: 
               </h3>
+              <h5 class=" mt-3">
+                0x7a07D54a7D7dFDd1a808c977fF2D5D3D1c7f2494
+              </h5>
               <v-img
               src="@/assets/img/godiamond.png"
               max-width="250px"
