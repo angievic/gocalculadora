@@ -12,6 +12,15 @@
               <h3 class="font-weight-light mt-3">
                 Hecho con amor por Instagram <a href="https://www.instagram.com/soyangiezuniga/">@soyangiezuniga</a> y <a href="https://www.instagram.com/jaibayuelomundial/">@jaibayuelomundial</a>
               </h3>
+              <h3 class="font-weight-light mt-3">
+                Si quieres contribuir a este proyecto...
+              </h3>
+              <h3 class="font-weight-light mt-3 mifuente">
+                BTC wallet: 1P1MBjBTjRxgtryP4Gaz1D8aY2mAjHQ7QN
+              </h3>
+              <h3 class="font-weight-light mt-3 mifuente" width="100%">
+                BNB BEP20 wallet: 0x7a07D54a7D7dFDd1a808c977fF2D5D3D1c7f2494
+              </h3>
               <v-img
               src="@/assets/img/godiamond.png"
               max-width="250px"
@@ -65,6 +74,9 @@
   height: 3rem;
   width: 100%;
   overflow: hidden;
+}
+.mifuente {
+  font-size: 3vw;
 }
 
 </style>
